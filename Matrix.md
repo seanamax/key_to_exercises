@@ -58,7 +58,7 @@ Obviously, this is a tmplate question just for matrix segment tree or binary ind
 #Use matrix segment tree code to AC :
 ``code`` `` C ++ ``
 
-````
+```` c++
 
 // just use one-dimensional segment tree to express the column of 
 // matrix, and every node of line segment tree. that's the matrix 
@@ -194,7 +194,7 @@ void squ( int store_x, int y1, int y2, int store_y )
 
 # Use matrix indexed trees for AC.
 ` code ` ` c ++ `
-```
+``` c++
 
 #include <cstdio>
 #include <algorithm>
