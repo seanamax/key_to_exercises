@@ -22,6 +22,9 @@ Output
 For each querying output one line, which has an integer representing A[x, y]. 
 
 There is a blank line between every two continuous test cases. 
+
+------
+
 SampleInput
 1
 2 10
@@ -35,6 +38,9 @@ C 1 1 2 2
 Q 1 1
 C 1 1 2 1
 Q 2 1
+
+------
+
 SampleOutput
 1
 0
