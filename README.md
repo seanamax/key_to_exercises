@@ -1,3 +1,12 @@
 # key_to_exercises
-### such as acm basic and leetcode
-`note: ` title of article nothing note for fjutoj but other oj. 
+`-[]` ACM 
+
+`-[]` [LeetCode](https://github.com/seanamax/key_to_exercises/blob/master/leetcode/README.md)
+
+Any problems can contact with us by email.
+[1040469243@qq.com](https://github.com/seanamax)
+
+[paul_lin@foxmail.com](https://github.com/Paul-Lin)
+
+
+Have a good day.
