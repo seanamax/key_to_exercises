@@ -1,7 +1,7 @@
 # key_to_exercises
 `-[]` ACM 
 
-`-[]` [LeetCode](https://github.com/seanamax/key_to_exercises/blob/master/leetcode/README.md)
+`-[]` [LeetCode](https://github.com/seanamax/key_to_exercises/tree/master/leetcode)
 
 Any problems can contact with us by email.
 >[1040469243@qq.com](https://github.com/seanamax)
