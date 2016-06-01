@@ -28,5 +28,5 @@
 ----
 
 ----
-[ code link ](  https://github.com/seanamax/key_to_exercises/acm_code/A_divide_B.cpp  )
+[ code link ](  https://github.com/seanamax/key_to_exercises/blob/master/acm_code/A_divide_B.cpp  )
 ----
