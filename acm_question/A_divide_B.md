@@ -24,9 +24,9 @@
 
 ----
 #### // we can solve this question by:
-##### suspose valiable t = (A/B), we already know n = A%9973, so we can equal to turn A = B*t, and if (B*t)%9973 is equal to n, then find the t.
+##### suspose valiable t = (A/B), we already know n = A%9973, so we can equal to turn A = B*t, and if ( B * (t%9973) )%9973 is equal to n, then find the t%9973.
 ----
 
 ----
-[ code link ](  https://github.com/seanamax/key_to_exercises/acm_code/A/B.cpp  )
+[ code link ](  https://github.com/seanamax/key_to_exercises/acm_code/A_divide_B.cpp  )
 ----
