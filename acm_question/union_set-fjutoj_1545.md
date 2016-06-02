@@ -60,4 +60,4 @@
 ----  
 
 
-[ Code Link ]( https://github.com/seanamax/key_to_exercises/blob/acm_code/union_set-fjutoj_1545.cpp )
+[ Code Link ]( https://github.com/seanamax/key_to_exercises/blob/master/acm_code/union_set-fjutoj_1545.cpp )
